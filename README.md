@@ -1,7 +1,7 @@
 # Fondamenti-di-IA
-Homework per il corso di Fondamenti di Intelligenza Artificiale
+Homework per il corso di "Fondamenti di Intelligenza Artificiale"
 
-Corso di laurea in Ingegneria Informatica e Automatica presso Sapienza Università di Roma
+Corso di laurea in "Ingegneria Informatica e Automatica" presso "Sapienza" Università di Roma
 
 ## A_star algorithm
 L'Homework consisteva nel sviluppare un algoritmo basato su A* in `python` per vincere una versione basilare del gioco `frogger`.
